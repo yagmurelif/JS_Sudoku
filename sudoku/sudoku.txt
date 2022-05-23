@@ -1,0 +1,277 @@
+<html>
+<head>
+  <style id="table"> 
+
+    body{
+        background-color: #87cefa;
+    }
+}
+
+table {
+  border: 2px solid #000000;
+  border-spacing: 0;      
+}
+
+table.discerceve td {
+        border:5px outset gray;
+}
+table.discerceve th {
+    font-size:8px;
+    color:white; 
+}
+
+table.ictablo td {
+    font-size:20px;
+    color:black;
+    width:40px;
+    height:40px;
+    text-align:center;
+    vertical-align:middle;
+    border:1px solid black;
+    background-color: white;
+}
+
+td.ickare1 {
+    background-color:#ffff00;
+    background-position:center center;
+} 
+td.ickare2 {
+    background-color:#ffff00;
+    background-position:center center;
+}
+td.ickare3 {
+    background-color:#ffff00;
+    background-position:center center;
+}       
+td.ickare4 {
+    background-color:#ffff00;
+    background-position:center center;
+}
+td.ickare5 {
+    background-color:#ffff00;
+    background-position:center center;
+}
+td.ickare6 {
+    background-color:#ffff00;
+    background-position:center center;
+}
+td.ickare7 {
+    background-color:#ffff00;
+    background-position:center center;
+}
+td.ickare8 {
+    background-color:#ffff00;
+    background-position:center center;
+}td.ickare9 {
+    background-color:#ffff00;
+    background-position:center center;
+}
+
+  </style>
+</head>
+<body>
+  
+    <table class="discerceve">
+    <caption> SUDOKU </caption>
+
+          <tbody>
+        <tr>
+            <th> </th>
+            <td class="ickare1" rowspan="3" colspan="3">
+                <table class="ictablo">
+                    <tr>
+                        <td>2</td>
+                        <td>5</td>
+                        <td>4</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td>6</td>
+                        <td>8</td>
+                    </tr>
+                </table>
+            </td>
+            <td class="ickare2" rowspan="3" colspan="3">
+                <table class="ictablo">
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                </table>
+            </td>
+            <td class="ickare3" rowspan="3" colspan="3">
+                <table class="ictablo">
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <th> </th>
+        </tr>
+        <tr>
+            <th> </th>
+        </tr>
+        <tr>
+            <th> </th>
+            <td class="ickare4" rowspan="3" colspan="3">
+                <table class="ictablo">
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                </table>
+            </td>
+            <td class="ickare5" rowspan="3" colspan="3">
+                <table class="ictablo">
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                </table>
+            </td>
+            <td class="ickare6" rowspan="3" colspan="3">
+                <table class="ictablo">
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <th> </th>
+        </tr>
+        <tr>
+            <th> </th>
+        </tr>
+        <tr>
+            <th> </th>
+            <td class="ickare7" rowspan="3" colspan="3">
+                <table class="ictablo">
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                </table>
+            </td>
+            <td class="ickare8" rowspan="3" colspan="3">
+                <table class="ictablo">
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>8</td>
+                        <td>3</td>
+                        <td>5</td>
+                    </tr>
+                </table>
+            </td>
+            <td class="ickare9" rowspan="3" colspan="3">
+                <table class="ictablo">
+                    <tr>
+                        <td>6</td>
+                        <td>5</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td>5</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td>5</td>
+                        <td>2</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <th> </th>
+        </tr>
+        <tr>
+            <th> </th>
+        </tr>
+    </tbody> </table>
+</body>
+</html>
